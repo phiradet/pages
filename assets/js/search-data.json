@@ -1,28 +1,39 @@
 {
   
-
-  
-  
-
-  
-
-  
-  
-
-  
-  
-
-  
+    
+        "post0": {
+            "title": "Title",
+            "content": "",
+            "url": "https://phiradet.github.io/pages/2020/09/16/testing.html",
+            "relUrl": "/2020/09/16/testing.html",
+            "date": " • Sep 16, 2020"
+        }
+        
+    
   
 
   
   
 
   
+
+  
   
 
   
-      "page7": {
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+      ,"page7": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://phiradet.github.io/pages/robots.txt",
